@@ -2,7 +2,7 @@ const BLOG = {
   title: '山川行貉',
   author: 'Duseus',
   email: 'duseus@scxho.cn',
-  link: 'https://nobelium.vercel.app',
+  link: 'https://nobelium-pi.vercel.app',
   description: 'This gonna be an awesome website.',
   lang: 'en-US',
   appearance: 'auto', // ['light', 'dark', 'auto'],
