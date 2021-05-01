@@ -2,7 +2,7 @@ const BLOG = {
   title: '山川行貉',
   author: 'Duseus',
   email: 'duseus@scxho.cn',
-  link: 'https://nobelium-pi.vercel.app',
+  link: 'https://nbblog.vercel.app',
   description: 'This gonna be an awesome website.',
   lang: 'en-US',
   appearance: 'auto', // ['light', 'dark', 'auto'],
@@ -17,8 +17,7 @@ const BLOG = {
   showArchive: true, // WIP
   socialLink: 'https://twitter.com/craigaryhart',
   seo: {
-    keywords: ['Blog', 'Website', 'Notion'],
-    googleSiteVerification: '' // Remove the value or replace it with your own google site verification code
+    keywords: ['Blog', 'Website', 'Notion']
   },
   notionPageId: process.env.NOTION_PAGE_ID, // DO NOT CHANGE THIS！！！
   notionAccessToken: process.env.NOTION_ACCESS_TOKEN, // Useful if you prefer not to make your database public
