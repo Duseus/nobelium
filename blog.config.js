@@ -3,7 +3,7 @@ const BLOG = {
   author: 'Duseus',
   email: 'duseus@scxho.cn',
   link: 'https://nbblog.vercel.app',
-  description: '快让我在雪地里撒点儿野.',
+  description: '快让我在雪地上撒点儿野.',
   lang: 'en-US',
   appearance: 'auto', // ['light', 'dark', 'auto'],
   font: 'sans-serif', // ['sans-serif', 'serif']
